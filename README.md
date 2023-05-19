@@ -26,11 +26,11 @@ The code also demonstrates object detection using the YOLO algorithm:
 To use the code in this repository, follow these steps:
 
 1. Install the required dependencies: TensorFlow, Keras, OpenCV.
-2. Clone the repository: `git clone https://github.com/your-username/repository-name.git`
-3. Navigate to the repository directory: `cd repository-name`
-4. Run the code: `python your_code.py`
+2. Clone the repository: `git clone https://github.com/theakshat1/CIFAR-YOLO-Vision`
+3. Navigate to the repository directory: `cd CIFAR-YOLO-Vision`
+4. Install the required dependencies using pip: `pip install -U -r requirements.txt`
 
-Make sure to modify `your_code.py` with the appropriate filename.
+Modify `YOLOv3.ipynb`.
 
 ## Resources
 
