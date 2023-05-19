@@ -30,7 +30,8 @@ To use the code in this repository, follow these steps:
 3. Navigate to the repository directory: `cd CIFAR-YOLO-Vision`
 4. Install the required dependencies using pip: `pip install -U -r requirements.txt`
 
-Modify `YOLOv3.ipynb`.
+Modify `YOLOv3.ipynb` to your system.
+(Project made on Google Colab)
 
 ## Resources
 
