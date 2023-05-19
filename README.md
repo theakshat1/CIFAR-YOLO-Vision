@@ -3,23 +3,15 @@ This repository contains code for image classification using a Convolutional Neu
 
 The object detection model is built using TensorFlow and Keras, while the YOLO algorithm is implemented using OpenCV and Darknet. The repository provides a comprehensive example of how to train a CNN for image classification and perform object detection on images. The code includes data preprocessing, model training, and visualization of results. It serves as a practical guide for understanding and implementing these computer vision techniques.
 
-## Image Classification
-
-The code includes the following steps for image classification:
-
-1. Loading and preprocessing the CIFAR-10 dataset.
-2. Building a CNN model for image classification.
-3. Training the model on the dataset.
-4. Evaluating the model's performance on test data.
-
 ## Object Detection
 
-The code also demonstrates object detection using the YOLO algorithm:
+The code demonstrates object detection using the YOLO algorithm:
 
-1. Downloading the YOLO model files and class names.
-2. Loading the YOLO model and class labels.
-3. Downloading a test image and running object detection on it.
-4. Displaying the image with bounding boxes and labels for detected objects.
+1. Loading and preprocessing the CIFAR-10 dataset.
+2. Building a CNN model for Object Detection.
+3. Training the model on the dataset.
+4. Downloading and Loading the YOLO model files and class names.
+5. Evaluating the model's performance on test data.
 
 ## Usage
 
@@ -30,7 +22,7 @@ To use the code in this repository, follow these steps:
 3. Navigate to the repository directory: `cd CIFAR-YOLO-Vision`
 4. Install the required dependencies using pip: `pip install -U -r requirements.txt`
 
-Modify `YOLOv3.ipynb` to your system.
+Modify `YOLOv3.ipynb` according to need.
 (Project made on Google Colab)
 
 ## Resources
